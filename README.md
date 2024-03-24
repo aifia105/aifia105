@@ -1,8 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aifia Med Amine
-=======================================================================================================================================
+PREVIEW
+MARKDOWN
+COPY
+Hi 👋 My name is Aifia Med Amine
+================================
 
-\- Full Stack Typescript/Java Developer
----------------------------------------
+Full Stack Typescript/Java Developer
+------------------------------------
 
 I am Aifia Mohamed Amine, a full-stack developer. Holding a Bachelor's degree in Computer Science, I possess a strong foundation in software engineering principles and a passion for programming. I'm a quick learner, adept at problem-solving, and bring experience in web development to the table.
 
