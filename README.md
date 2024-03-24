@@ -11,6 +11,8 @@ I am Aifia Mohamed Amine, a full-stack developer. Holding a Bachelor's degree in
 * ✉️  You can contact me at [mohamedaifia34@gmail.com](mailto:mohamedaifia34@gmail.com)
 * ⚡  I'm batman
 
+<div class="tenor-gif-embed" data-postid="26710743" data-share-method="host" data-aspect-ratio="1.37339" data-width="100%"><a href="https://tenor.com/view/skill-issue-coding-programming-gif-26710743">Skill Issue Coding Sticker</a>from <a href="https://tenor.com/search/skill+issue-stickers">Skill Issue Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <a href="https://www.github.com/aifia105" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aifia105?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
