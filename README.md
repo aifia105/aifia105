@@ -1,4 +1,4 @@
-[Image description](cov.png)
+[](cov.png)
 Hi 👋 My name is Aifia Med Amine
 ================================
 
