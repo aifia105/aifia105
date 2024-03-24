@@ -1,4 +1,4 @@
-(cov.png)
+![My awesome cover image](cov.png)
 Hi 👋 My name is Aifia Med Amine
 ================================
 
