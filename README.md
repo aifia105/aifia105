@@ -1,7 +1,6 @@
 Hi 👋 My name is Aifia Med Amine
 ================================
-![My awesome cover image](cov.png)
-<br>
+
 Full-Stack Typescript/Java Developer
 ------------------------------------
 
