@@ -1,4 +1,4 @@
-Hi 👋 My name is Aifia Med Amine
+Hi 👋 My name is Aifia Mohamed Amine
 ================================
 
 Full-Stack Typescript/Java Developer
@@ -7,7 +7,7 @@ Full-Stack Typescript/Java Developer
 I am Aifia Mohamed Amine, a full-stack developer. Holding a Bachelor's degree in Computer Science, I possess a strong foundation in software engineering principles and a passion for programming. I'm a quick learner, adept at problem-solving, and bring experience in web development to the table.
 
 * 🌍  I'm based in Tunis , Tunisia
-* 🖥️  See my portfolio at [aifia105](http://aifia105.github.io/portfolio/#portfolio)
+* 🖥️  See my portfolio at [aifia105](https://med-aifia.me)
 * ✉️  You can contact me at [mohamedaifia34@gmail.com](mailto:mohamedaifia34@gmail.com)
 * ⚡  I'm batman
 
