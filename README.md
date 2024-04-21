@@ -9,7 +9,6 @@ I am Aifia Mohamed Amine, a full-stack developer. Holding a Bachelor's degree in
 * 🌍  I'm based in Tunis , Tunisia
 * 🖥️  See my portfolio at [aifia105](https://med-aifia.me)
 * ✉️  You can contact me at [mohamedaifia34@gmail.com](mailto:mohamedaifia34@gmail.com)
-* ⚡  I'm batman
 
 <a href="https://www.github.com/aifia105" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aifia105?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
