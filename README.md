@@ -1,4 +1,4 @@
-Hi 👋 My name is Aifia Med Amine
+Hi 👋 My name is Aifia Me Amine
 ================================
 
 Full-Stack Typescript/Java Developer
