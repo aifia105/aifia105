@@ -5,7 +5,7 @@
 I build **secure, scalable, production-grade systems** with modern technologies. Experienced in **API design, database modeling, cloud deployment, and cybersecurity-aware applications**.  
 
 * 🌍 Based in Tunis, Tunisia  
-* 🖥️ Portfolio: [med-aifia.me](https://med-aifia.me)  
+* 🖥️ Portfolio: [med-aifia.me](https://terminal-chi-ten.vercel.app/)  
 * ✉️ Contact: [mohamedaifia34@gmail.com](mailto:mohamedaifia34@gmail.com)
 
 ---
